@@ -7,8 +7,10 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MAGD 372 Projects" expanded="True" selected="True">
-            <Node name="Assets" expanded="True" />
+          <Node name="MAGD 372 Projects" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MouseLook.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -16,7 +18,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f7584608-ccf2-462e-8424-ebb589e45116" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f72996a9-6c9d-4dd4-945a-44294e93a98a" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
